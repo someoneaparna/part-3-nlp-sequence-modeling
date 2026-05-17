@@ -1,0 +1,15 @@
+Text: delivery smooth product quality excellent ticket number appreciate quick response
+Predicted: 0 | Actual: 0
+
+Text: refund still pending experience frustrating
+Predicted: 1 | Actual: 0
+
+Text: internet speed slow customer care helping please respond soon possible
+Predicted: 1 | Actual: 1
+
+Text: please tell update account details please respond soon possible
+Predicted: 1 | Actual: 1
+
+Text: refund still pending experience frustrating ticket number
+Predicted: 1 | Actual: 1
+
